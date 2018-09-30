@@ -12,3 +12,6 @@ https://github.com/Shamim1977/phantomjs/raw/master/phantomjs.zip
 
 -> phantomjswin for windows
 https://github.com/Shamim1977/phantomjs/raw/master/phantomjswin.zip
+
+-> chromedriver mac 2.42
+https://github.com/Shamim1977/phantomjs/raw/master/chromedriver.zip
