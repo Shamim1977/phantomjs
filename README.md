@@ -1,17 +1,25 @@
 # phantomjs
 
-Version: 2.1.1
-
 Taken from:
 http://phantomjs.org/download.html
+&
+https://chromedriver.storage.googleapis.com/index.html?path=2.42/
 
 Date: 29 Sept 2018
 
--> phantomjs mac
+PhantomJS
+
+-> phantomjs 2.1.1 for mac x64
 https://github.com/Shamim1977/phantomjs/raw/master/phantomjs.zip
 
--> phantomjswin for windows
+-> phantomjswin 2.1.1 for win x32
 https://github.com/Shamim1977/phantomjs/raw/master/phantomjswin.zip
 
--> chromedriver mac 2.42
+
+ChromeDriver
+
+-> chromedriver 2.42 mac x64
 https://github.com/Shamim1977/phantomjs/raw/master/chromedriver.zip
+
+-> chromedriver 2.42 win x32
+https://github.com/Shamim1977/phantomjs/raw/master/chromedriverwin32.zip
